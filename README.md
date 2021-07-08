@@ -1,4 +1,4 @@
-##NSEIeod: Tool for collecting ieod data from nseindia.com (using nsetools package)
+## NSEIeod: Tool for collecting ieod data from nseindia.com (using nsetools package)
 
 > This is still in development phase.
 > The main idea behind that is to collect collect realtime data and save it in postgresql database(using psycopg2 and sqlalchemy) with unix timestamps
